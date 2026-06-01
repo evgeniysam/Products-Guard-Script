@@ -191,7 +191,7 @@ function main() {
     if (issueCount > 0) {
         var dataRange = sheet.getRange(2, 1, sheet.getLastRow() - 1, header.length);
         // Сортуємо спочатку за міткою (щоб top_roas був зверху), потім за витратами
-        dataRange.sort([{ column: 15, ascending: false }, { column: 5, ascending: false }]);
+        dataRange.sort([{ column: 14, ascending: false }, { column: 4, ascending: false }]);
     }
 
     Logger.log('✅ Аналіз завершено.');
