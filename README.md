@@ -12,7 +12,7 @@
 
 ## Встановлення
 
-1. Скопіюйте код з файлу `product guard.js`.
+1. Скопіюйте код з файлу [product guard.js](https://github.com/evgeniysam/Products-Guard-Script/blob/main/product%20guard.js).
 2. Відкрийте ваш акаунт Google Ads.
 3. Перейдіть до **Інструменти та налаштування** (Tools & Settings) > **Скрипти** (Scripts) (у розділі "Масові дії").
 4. Натисніть кнопку **+**, щоб створити новий скрипт.
